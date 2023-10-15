@@ -8,3 +8,8 @@ body {
 .navbar-brand [
 
 ]
+
+
+.card > img {
+    height:250px
+}
