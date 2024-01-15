@@ -9,7 +9,9 @@ Table of Contents
 <h3> 5. Credits </h3>
 <h3> 6. Licence </h3>
 
-</h2>1. Description</h2>
+
+
+<h2>1. Description</h2>
 
 The purpose of this project was to create a responsive portfolio using HTML, CSS and Bootstrap to demonstrate my skills to employers. There are six projects included in the portfolio, all with links to github repositories. There is also an about section and a skills section.
 
