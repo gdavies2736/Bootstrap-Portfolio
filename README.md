@@ -17,8 +17,11 @@ The purpose of this project was to create a responsive portfolio using HTML, CSS
 
 Here are screenshots showing my portfolio page:
 
+![image](https://github.com/gdavies2736/Bootstrap-Portfolio/assets/89836987/93cc5310-71ba-462a-be7c-b2d3c35bec43)
 
+![image](https://github.com/gdavies2736/Bootstrap-Portfolio/assets/89836987/24e382a7-714e-45b6-8e8b-7d1128016f14)
 
+![image](https://github.com/gdavies2736/Bootstrap-Portfolio/assets/89836987/446c5e17-f3d6-48f5-bd98-73146e04576b)
 
 
 
